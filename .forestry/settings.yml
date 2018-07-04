@@ -16,7 +16,6 @@ collections:
 - path: _posts
   label: Posts
   create: all
-  default_front_matter_template: post
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
